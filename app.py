@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from db import get_user
 from users import User
 
